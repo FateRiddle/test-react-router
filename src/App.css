@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding-top: 20vh;
+}
+
+.App div {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  padding: 5vh 0;
+  font-size: 12vh;
+}
+
+a.active {
+  color: lightblue;
+}
